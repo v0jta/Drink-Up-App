@@ -1,0 +1,1043 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214305902",
+        "amenity": "pharmacy",
+        "brand": "Benu",
+        "brand:wikidata": "Q62562792",
+        "contact:email": "praha.dlouha@benu.cz",
+        "contact:phone": "+420 736 538 881",
+        "contact:website": "https://www.benu.cz",
+        "healthcare": "pharmacy",
+        "name": "Benu",
+        "opening_hours": "Mo-Fr 08:00-18:00,08:00-19:00",
+        "ref:SUKL": "1995072001"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4265943,
+          50.0905596
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296586801",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "1010",
+        "addr:country": "CZ",
+        "addr:housenumber": "1010/9",
+        "addr:place": "Staré Město",
+        "addr:postcode": "11000",
+        "addr:street": "Národní",
+        "addr:streetnumber": "9",
+        "addr:suburb": "Praha 1",
+        "amenity": "clinic",
+        "email": "poliklinika@narodni.cz",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Poliklinika na Národní",
+        "phone": "+420 222 075 119",
+        "ref:ruian:addr": "21726493",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "website": "https://poliklinikanarodni.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4156012,
+          50.0816837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296592754",
+        "addr:conscriptionnumber": "630",
+        "addr:housenumber": "630/53",
+        "addr:postcode": "11000",
+        "addr:street": "Štěpánská",
+        "addr:streetnumber": "53",
+        "amenity": "dentist",
+        "email": "ordinace@am-dentalcare.cz",
+        "healthcare": "dentist",
+        "name": "MDDr. Anna Medviňková - Dental Care",
+        "opening_hours": "Mo-Tu 07:30-17:00; We-Th 07:30-15:30; Fr 07:30-14:00",
+        "phone": "+420224216514",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21704066",
+        "website": "https://am-dentalcare.cz"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4260752,
+          50.0802682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296661327",
+        "addr:conscriptionnumber": "192",
+        "addr:housenumber": "192/24",
+        "addr:postcode": "11000",
+        "addr:street": "Pštrossova",
+        "addr:streetnumber": "24",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Santé",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21702781"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4158029,
+          50.0794316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338836380",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "720",
+        "addr:country": "CZ",
+        "addr:housenumber": "720/5",
+        "addr:place": "Nové Město",
+        "addr:postcode": "11000",
+        "addr:street": "Palackého",
+        "addr:streetnumber": "5",
+        "addr:suburb": "Praha 1",
+        "amenity": "pharmacy",
+        "description": "V nočních hodinách výdej přes pohotovostní okénko na zvonek",
+        "healthcare": "pharmacy",
+        "name": "Pohotovostní lékárna",
+        "opening_hours": "24/7",
+        "phone": "+420 224 946 982",
+        "ref:ruian:addr": "21705119",
+        "source": "survey",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4232,
+          50.0811236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/340024361",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "78",
+        "addr:country": "CZ",
+        "addr:housenumber": "78/12",
+        "addr:place": "Nové Město",
+        "addr:postcode": "11000",
+        "addr:street": "Spálená",
+        "addr:streetnumber": "12",
+        "addr:suburb": "Praha 1",
+        "amenity": "pharmacy",
+        "contact:email": "chudobova.h@seznam.cz",
+        "healthcare": "pharmacy",
+        "name": "Ve Spálené",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "phone": "+420 224 948 122",
+        "ref:SUKL": "1995053000",
+        "ref:ruian:addr": "21701407",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey"
+      },
+      "geometry": {
+        "coordinates": [
+          14.419977,
+          50.0802253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/340024363",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "78",
+        "addr:country": "CZ",
+        "addr:housenumber": "78/12",
+        "addr:place": "Nové Město",
+        "addr:postcode": "11000",
+        "addr:street": "Spálená",
+        "addr:streetnumber": "12",
+        "addr:suburb": "Praha 1",
+        "amenity": "clinic",
+        "check_date": "2023-06-01",
+        "healthcare": "clinic",
+        "name": "Městská poliklinika Praha",
+        "phone": "+420 222 924 211",
+        "ref:ruian:addr": "21701407",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "website": "https://www.prahamp.cz/",
+        "wikidata": "Q63456523"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4199852,
+          50.0802781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354686108",
+        "amenity": "pharmacy",
+        "contact:email": "lekarna@nnfp.cz",
+        "contact:phone": "+420 222 311 870",
+        "contact:website": "http://www.nnfp.cz",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Nemocniční lékárna",
+        "opening_hours": "24/7",
+        "ref:SUKL": "1995011000",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4219243,
+          50.0927879
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/359955247",
+        "addr:city": "Praha",
+        "addr:housenumber": "11",
+        "addr:postcode": "11000",
+        "addr:street": "Jindřišská",
+        "amenity": "pharmacy",
+        "contact:email": "upalmy@seznam.cz",
+        "contact:phone": "+420 224 220 353",
+        "healthcare": "pharmacy",
+        "name": "U Palmy",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-15:00",
+        "ref:SUKL": "1995040000"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4276785,
+          50.0836873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/361241034",
+        "amenity": "pharmacy",
+        "contact:email": "lekarnacernaruze@seznam.cz",
+        "contact:phone": "+420 224 212 311",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Černá Růže",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "ref:SUKL": "1995060000"
+      },
+      "geometry": {
+        "coordinates": [
+          14.426573,
+          50.0847724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366277847",
+        "addr:city": "Praha",
+        "addr:housenumber": "8",
+        "addr:postcode": "11000",
+        "addr:street": "Wenceslas Square",
+        "amenity": "pharmacy",
+        "email": "lek.adamova@seznam.cz",
+        "healthcare": "pharmacy",
+        "name": "Adamova lékárna",
+        "name:ko": "바츨라프 하우스",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 11:00-19:00"
+      },
+      "geometry": {
+        "coordinates": [
+          14.424011,
+          50.0835167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418963464",
+        "amenity": "pharmacy",
+        "brand": "Pilulka",
+        "brand:wikidata": "Q41960196",
+        "brand:wikipedia": "cs:Pilulka Lékárny",
+        "check_date:opening_hours": "2023-09-10",
+        "contact:email": "pilulka.senovazne@gmail.com",
+        "contact:phone": "+420 770 184 767",
+        "healthcare": "pharmacy",
+        "name": "Pilulka",
+        "opening_hours": "Mo-Fr 08:30-18:30",
+        "ref:SUKL": "1995096000"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4290886,
+          50.0855617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680485774",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Boromejská lékárna",
+        "opening_hours": "Mo-Th 07:00-16:30; Fr 07:00-15:00",
+        "phone": "+420 257 197 421;+420 257 197 343",
+        "source": "survey",
+        "website": "https://www.nmskb.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.3957241,
+          50.0870335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3157035053",
+        "addr:city": "Praha",
+        "addr:housenumber": "5",
+        "addr:postcode": "11000",
+        "addr:street": "Perlová",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Cara Plasma",
+        "note": "Dárcovské centrum krevní plasmy",
+        "website": "http://www.caraplasma.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4217029,
+          50.0833793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183550864",
+        "addr:city": "Praha",
+        "addr:housenumber": "23",
+        "addr:postcode": "11000",
+        "addr:street": "Vodičkova",
+        "amenity": "pharmacy",
+        "contact:email": "praha.vodickova@lekarnalemon.cz",
+        "contact:phone": "+420 224 948 653",
+        "contact:website": "https://www.lekarnalemon.cz/",
+        "healthcare": "pharmacy",
+        "name": "Lemon",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 12:00-18:00",
+        "ref:SUKL": "201614064"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4241055,
+          50.0808099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3300255594",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "203",
+        "addr:country": "CZ",
+        "addr:housenumber": "203/14",
+        "addr:place": "Malá Strana",
+        "addr:postcode": "11800",
+        "addr:street": "Malostranské náměstí",
+        "addr:streetnumber": "14",
+        "addr:suburb": "Praha 1",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Fragnerova lékárna U Černého orla",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-18:00",
+        "phone": "+420 257 219 744",
+        "ref:ruian:addr": "21696209",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "website": "https://www.lekarna-orel.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4021975,
+          50.088676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3417082873",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "339",
+        "addr:country": "CZ",
+        "addr:housenumber": "339/11",
+        "addr:place": "Staré Město",
+        "addr:postcode": "11000",
+        "addr:street": "Národní",
+        "addr:streetnumber": "11",
+        "addr:suburb": "Praha 1",
+        "amenity": "pharmacy",
+        "brand": "Benu",
+        "brand:wikidata": "Q62562792",
+        "check_date": "2023-06-01",
+        "healthcare": "pharmacy",
+        "name": "Benu",
+        "opening_hours": "Mo-Fr 07:30-19:30",
+        "phone": "+420 731 638 116",
+        "ref:ruian:addr": "21718628",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "website": "https://www.benu.cz/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4157856,
+          50.081634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3467465881",
+        "addr:city": "Praha",
+        "addr:housenumber": "4",
+        "addr:postcode": "11000",
+        "addr:street": "Opletalova",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Lékárna Opletalova"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4294416,
+          50.0809786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470944135",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "1935",
+        "addr:country": "CZ",
+        "addr:housenumber": "1935/38",
+        "addr:place": "Nové Město",
+        "addr:postcode": "11000",
+        "addr:street": "Vodičkova",
+        "addr:streetnumber": "38",
+        "addr:suburb": "Praha 1",
+        "amenity": "pharmacy",
+        "contact:email": "lekarnapraha1@gmail.com",
+        "contact:phone": "+420 222 987 433",
+        "healthcare": "pharmacy",
+        "name": "Lékárna Vodičkova 38",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa 09:00-23:00; Su 10:00-23:00",
+        "ref:SUKL": "201292307",
+        "ref:ruian:addr": "21714274",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "website": "http://www.lekarna-praha1.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4255898,
+          50.0816858
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475447064",
+        "addr:city": "Praha",
+        "addr:housenumber": "35",
+        "addr:postcode": "11000",
+        "addr:street": "Národní",
+        "amenity": "pharmacy",
+        "brand": "Dr. Max",
+        "brand:wikidata": "Q56317371",
+        "brand:wikipedia": "fr:Dr.Max",
+        "dispensing": "yes",
+        "email": "praha.narodni@drmax.cz",
+        "healthcare": "pharmacy",
+        "name": "Dr. Max",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "Dr. Max",
+        "phone": "+420 224240593",
+        "website": "https://www.drmax.cz/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4198088,
+          50.082685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475447065",
+        "amenity": "pharmacy",
+        "brand": "Dr. Max",
+        "brand:wikidata": "Q56317371",
+        "brand:wikipedia": "fr:Dr.Max",
+        "contact:phone": "+420 225 574 191",
+        "dispensing": "yes",
+        "email": "praha.naporici@drmax.cz",
+        "healthcare": "pharmacy",
+        "name": "Dr. Max",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "operator": "Dr. Max",
+        "phone": "+420 222 318 568",
+        "ref:SUKL": "1995068000",
+        "website": "https://www.drmax.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4343262,
+          50.0897463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475476023",
+        "amenity": "pharmacy",
+        "contact:email": "masarykova@lekarnaave.cz",
+        "contact:phone": "+420 601 201 489",
+        "contact:website": "http://www.lekarnaave.cz",
+        "healthcare": "pharmacy",
+        "name": "Ave",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "ref:SUKL": "201342375"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4323048,
+          50.0880985
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475479179",
+        "amenity": "pharmacy",
+        "branch": "Vodičkova",
+        "brand": "Dr. Max",
+        "brand:wikidata": "Q56317371",
+        "brand:wikipedia": "fr:Dr.Max",
+        "contact:email": "prahavod@drmax.cz",
+        "contact:phone": "+420 224 267 129",
+        "contact:website": "https://www.drmax.cz/lekarny/praha-1-vodickova-40",
+        "dispensing": "yes",
+        "email": "prahavod@drmax.cz",
+        "healthcare": "pharmacy",
+        "name": "Dr. Max",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-18:00",
+        "operator": "Dr. Max",
+        "phone": "+420 224 267 129",
+        "ref": "1995062000",
+        "website": "https://www.drmax.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4258675,
+          50.0818544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475978472",
+        "amenity": "pharmacy",
+        "branch": "Revoluční",
+        "brand": "Dr. Max",
+        "brand:wikidata": "Q56317371",
+        "brand:wikipedia": "fr:Dr.Max",
+        "dispensing": "yes",
+        "email": "praha.revolucni@drmax.cz",
+        "healthcare": "pharmacy",
+        "name": "Dr. Max",
+        "opening_hours": "Mo-Th 07:30-17:30; Fr 07:30-16:00",
+        "operator": "Dr. Max",
+        "phone": "+420 224 810 315",
+        "ref:SUKL": "1995069000",
+        "website": "https://www.drmax.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4273635,
+          50.0915872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3530775058",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "2121",
+        "addr:country": "CZ",
+        "addr:housenumber": "2121/22",
+        "addr:place": "Nové Město",
+        "addr:postcode": "11000",
+        "addr:street": "Spálená",
+        "addr:streetnumber": "22",
+        "addr:suburb": "Praha 1",
+        "amenity": "pharmacy",
+        "brand": "Benu",
+        "brand:wikidata": "Q62562792",
+        "healthcare": "pharmacy",
+        "level": "1",
+        "name": "Benu",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00",
+        "phone": "+420 731 638 182",
+        "ref:ruian:addr": "73140252",
+        "source:addr": "cuzk:ruian",
+        "website": "https://www.benu.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4201357,
+          50.0815341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3896336800",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Senovážné náměstí"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4320088,
+          50.0855287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4223445627",
+        "amenity": "pharmacy",
+        "contact:email": "lekarnaupalladia@gmail.com",
+        "contact:phone": "+420 724 888 446",
+        "healthcare": "pharmacy",
+        "name": "U Palladia",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "ref:SUKL": "00201292284"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4282035,
+          50.0899442
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460856116",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Brandeis Clinic"
+      },
+      "geometry": {
+        "coordinates": [
+          14.426944,
+          50.0883505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4888679221",
+        "addr:housenumber": "15",
+        "addr:postcode": "110 00",
+        "addr:street": "Na Příkopě",
+        "amenity": "dentist",
+        "email": "recepce@elitedental.cz",
+        "healthcare": "dentist",
+        "name": "Elite Dental Praha",
+        "name:cs": "Elite Dental Praha",
+        "name:en": "Elite Dental Prague",
+        "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00",
+        "phone": "+420 222 510 888",
+        "website": "http://elitedental.cz"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4249169,
+          50.0853813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045054907",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Lékárna Těšnov",
+        "opening_hours": "Mo-Fr 08:00-18:30"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4363408,
+          50.091118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045055922",
+        "amenity": "pharmacy",
+        "contact:email": "palladium@ipcnet.cz",
+        "contact:phone": "+420 224 829 073",
+        "contact:website": "https://www.ipcgroup.cz/lekarna/lekarna-ipc-palladium",
+        "healthcare": "pharmacy",
+        "name": "Palladium",
+        "opening_hours": "09:00-21:00",
+        "operator": "IPC",
+        "ref:SUKL": "1995059001",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4291943,
+          50.089226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5883045247",
+        "addr:city": "Praha 1",
+        "addr:housenumber": "22",
+        "addr:postcode": "11000",
+        "addr:street": "Senovážné náměstí",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Dentální hygiena - Žádné kazy",
+        "website": "https://zadnekazy.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.432083,
+          50.0854243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299081886",
+        "addr:city": "Praha",
+        "addr:housenumber": "743/9",
+        "addr:postcode": "110 00",
+        "addr:street": "Dlouhá",
+        "amenity": "pharmacy",
+        "contact:email": "lekarna@lekarnavdlouhe.cz",
+        "contact:phone": "+420 222 327 325",
+        "contact:website": "http://www.lekarnavdlouhe.cz",
+        "healthcare": "pharmacy",
+        "name": "Lékárna v Dlouhé",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 10:00-16:00",
+        "ref:SUKL": "1995092000",
+        "website": "https://www.lekarnavdlouhe.cz/cz/akce-a-slevy",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4229144,
+          50.0897189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9276356763",
+        "addr:city": "Praha",
+        "addr:housenumber": "300/8",
+        "addr:postcode": "11000",
+        "addr:street": "Wilsonova",
+        "amenity": "pharmacy",
+        "brand": "Dr. Max",
+        "brand:wikidata": "Q56317371",
+        "brand:wikipedia": "fr:Dr.Max",
+        "contact:email": "praha.wilsonova@drmax.cz",
+        "contact:phone": "+420 224 210 040",
+        "contact:website": "https://www.drmax.cz/",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dr. Max",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 09:00-19:00",
+        "ref:SUKL": "2995075000"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4345511,
+          50.0830994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406664869",
+        "amenity": "pharmacy",
+        "contact:email": "jungmannova@lekarnaave.cz",
+        "contact:phone": "+420 601 201 485",
+        "contact:website": "https://www.lekarnaave.cz/",
+        "healthcare": "pharmacy",
+        "name": "Ave",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "ref:SUKL": "201394478"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4226063,
+          50.0832231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406664870",
+        "amenity": "pharmacy",
+        "contact:email": "spalena@pharmgo.cz",
+        "contact:phone": "+420 602 180 563",
+        "healthcare": "pharmacy",
+        "name": "PharmGo",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa, Su 09:00-21:00",
+        "ref:SUKL": "201653981"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4191661,
+          50.0817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9549497222",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "0",
+        "name": "idealsmile",
+        "phone": "+420777070004",
+        "website": "https://idealsmile.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.427019,
+          50.0778848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9629368996",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "AVE",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4223749,
+          50.083347
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9726219927",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "gynaecology;urology",
+        "name": "Arto Centrum",
+        "opening_hours": "Mo-Fr 09:00-17:30",
+        "website": "https://www.urogyn.cz"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4221138,
+          50.0796449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9761736917",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Dr. Klešpová",
+        "opening_hours": "Mo,Tu 08:00-16:00; We,Th 12:00-18:00",
+        "phone": "+420 257 531 438",
+        "survey:date": "2022-05-22"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4081563,
+          50.0864435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11053613805",
+        "addr:housenumber": "32",
+        "addr:postcode": "11000",
+        "addr:street": "Klimentská",
+        "amenity": "pharmacy",
+        "contact:website": "https://www.naturapatyka.cz/",
+        "name": "Natur Apatyka",
+        "phone": "+420727944970",
+        "website": "https://www.naturapatyka.cz/"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4313826,
+          50.0920688
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11247426030",
+        "amenity": "pharmacy",
+        "contact:email": "lekarna@junglek.cz",
+        "contact:phone": "+420 224 947 508",
+        "healthcare": "pharmacy",
+        "name": "Lékárna Jungmannova",
+        "opening_hours": "Mo-We 08:00-18:00; Th,Fr 08:00-17:00",
+        "ref:SUKL": "00203101883"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4222352,
+          50.0803248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nemocnice na františku": ""
+      },
+      "geometry": {
+        "coordinates": [
+          14.4212958295536,
+          50.09239314944762
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    }
+  ]
+}

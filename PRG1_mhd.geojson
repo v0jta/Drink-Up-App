@@ -1,0 +1,2419 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-12-12T09:55:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21711416",
+        "name": "Hellichova",
+        "note": "dočasně přemístěna do 2024-10-31",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U138Z1P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4042174,
+          50.0856621
+        ]
+      },
+      "id": "node/21711416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74185201",
+        "name": "Malostranská",
+        "name:de": "Kleinseite",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U360Z1P",
+        "tram": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4101303,
+          50.0903723
+        ]
+      },
+      "id": "node/74185201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74218289",
+        "name": "Újezd",
+        "name:de": "Aujest",
+        "name:ru": "Фуникулер",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "D",
+        "ref:PID": "U809Z4",
+        "source": "bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4051734,
+          50.0812021
+        ]
+      },
+      "id": "node/74218289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74218292",
+        "name": "Hellichova",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U138Z2P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4043916,
+          50.0841732
+        ]
+      },
+      "id": "node/74218292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74218301",
+        "name": "Národní divadlo",
+        "name:de": "Nationaltheater",
+        "name:nl": "Nationaal Theater",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U483Z2P",
+        "source": "bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4140068,
+          50.0814355
+        ]
+      },
+      "id": "node/74218301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74218306",
+        "name": "Staroměstská",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U703Z2P",
+        "shelter": "no",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4155104,
+          50.0884689
+        ]
+      },
+      "id": "node/74218306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255617362",
+        "name": "Hlavní nádraží",
+        "name:de": "Hauptbahnhof",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U142Z2P",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4357995,
+          50.0857913
+        ]
+      },
+      "id": "node/255617362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276837841",
+        "name": "Malostranská",
+        "name:de": "Kleinseite",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U360Z3P",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4102488,
+          50.0914363
+        ]
+      },
+      "id": "node/276837841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282755815",
+        "name": "Těšnov",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U952Z1",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4365174,
+          50.0916713
+        ]
+      },
+      "id": "node/282755815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331954582",
+        "name": "Právnická fakulta",
+        "name:ru": "Юридический факультет",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U593Z1P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4178768,
+          50.0917271
+        ]
+      },
+      "id": "node/331954582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/341372183",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "B",
+        "name": "Nemocnice Na Františku",
+        "public_transport": "platform",
+        "ref:PID": "U620Z2P",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4229781,
+          50.093116
+        ]
+      },
+      "id": "node/341372183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/341372185",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "C",
+        "name": "Staroměstská",
+        "note": "výstupní",
+        "public_transport": "platform",
+        "ref:PID": "U703Z3P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.416421,
+          50.0891668
+        ]
+      },
+      "id": "node/341372185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/341372187",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "D",
+        "name": "Staroměstská",
+        "public_transport": "platform",
+        "ref:PID": "U703Z4P",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4161042,
+          50.089663
+        ]
+      },
+      "id": "node/341372187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354684526",
+        "name": "Právnická fakulta",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U593Z2P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4177508,
+          50.0914104
+        ]
+      },
+      "id": "node/354684526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354693402",
+        "name": "Čechův most - občasná",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "E",
+        "ref:PID": "U68Z5P",
+        "tram": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4166706,
+          50.0935779
+        ]
+      },
+      "id": "node/354693402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/393407881",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "description": "na mostě",
+        "highway": "bus_stop",
+        "layer": "1",
+        "lit": "yes",
+        "local_ref": "C",
+        "name": "Jiráskovo náměstí",
+        "name:de": "Jirásek-Platz",
+        "operator": "Dopravní podnik hl. m. Prahy, a. s.",
+        "public_transport": "platform",
+        "ref:PID": "U208Z3P",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.413198,
+          50.0758359
+        ]
+      },
+      "id": "node/393407881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705029552",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "D",
+        "name": "Malostranské náměstí",
+        "name:de": "Kleinseitner Ring",
+        "operator": "DPP",
+        "public_transport": "platform",
+        "ref:PID": "U361Z4P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4046072,
+          50.0877727
+        ]
+      },
+      "id": "node/705029552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705029756",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Šporkova",
+        "public_transport": "platform",
+        "ref:PID": "U2952Z1P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3979711,
+          50.0873708
+        ]
+      },
+      "id": "node/705029756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705029759",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Nemocnice pod Petřínem",
+        "public_transport": "platform",
+        "ref:PID": "U2953Z1P",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3963233,
+          50.0869314
+        ]
+      },
+      "id": "node/705029759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705029789",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Nerudova",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4021607,
+          50.0884254
+        ]
+      },
+      "id": "node/705029789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907949080",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "D",
+        "name": "Praha, Hlavní nádraží",
+        "name:de": "Hauptbahnhof",
+        "name:en": "Main Station",
+        "name:it": "Stazione centrale",
+        "name:nl": "Hoofdstation",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4346978,
+          50.0834209
+        ]
+      },
+      "id": "node/907949080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907950397",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Muzeum",
+        "name:de": "Museum",
+        "name:en": "Museum",
+        "public_transport": "platform",
+        "ref:PID": "U400Z3P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4312433,
+          50.0802442
+        ]
+      },
+      "id": "node/907950397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1561727890",
+        "name": "Královský letohrádek",
+        "name:de": "Königliches Lustschlösschen",
+        "old_name": "Kadetní škola",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U20Z1",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.404943,
+          50.09424
+        ]
+      },
+      "id": "node/1561727890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629549465",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "D",
+        "name": "Masarykovo nádraží",
+        "name:de": "Masaryk-Bahnhof",
+        "public_transport": "platform",
+        "ref:PID": "U480Z4P",
+        "shelter": "yes",
+        "source": "Bing;cuzk",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.432621,
+          50.0881075
+        ]
+      },
+      "id": "node/1629549465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629549468",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "B",
+        "name": "Náměstí Republiky",
+        "name:de": "Platz der Republik",
+        "name:en": "Republic Square",
+        "public_transport": "platform",
+        "ref:PID": "U480Z2P",
+        "shelter": "yes",
+        "source": "Bing;cuzk",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4293001,
+          50.0885372
+        ]
+      },
+      "id": "node/1629549468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629549469",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Náměstí Republiky",
+        "name:de": "Platz der Republik",
+        "name:en": "Republic Square",
+        "public_transport": "platform",
+        "ref:PID": "U480Z1P",
+        "shelter": "yes",
+        "source": "Bing;cuzk",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.430092,
+          50.0888361
+        ]
+      },
+      "id": "node/1629549469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629549481",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "B",
+        "name": "Dlouhá třída",
+        "name:de": "Lange Gasse",
+        "public_transport": "platform",
+        "ref:PID": "U87Z2P",
+        "shelter": "no",
+        "source": "Bing;cuzk",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.427896,
+          50.090544
+        ]
+      },
+      "id": "node/1629549481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629549482",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Dlouhá třída",
+        "name:de": "Lange Gasse",
+        "public_transport": "platform",
+        "ref:PID": "U87Z1P",
+        "shelter": "yes",
+        "source": "Bing;cuzk",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4275439,
+          50.0916658
+        ]
+      },
+      "id": "node/1629549482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699410609",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "A",
+        "name": "Bílá labuť",
+        "network": "Pražská integrovaná doprava",
+        "network:wikidata": "Q2108171",
+        "network:wikipedia": "cs:Pražská integrovaná doprava",
+        "public_transport": "platform",
+        "ref:PID": "U32Z1P",
+        "shelter": "no",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4354031,
+          50.0901491
+        ]
+      },
+      "id": "node/1699410609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699410611",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "B",
+        "name": "Bílá labuť",
+        "network": "Pražská integrovaná doprava",
+        "network:wikidata": "Q2108171",
+        "network:wikipedia": "cs:Pražská integrovaná doprava",
+        "public_transport": "platform",
+        "ref:PID": "U32Z2P",
+        "shelter": "yes",
+        "source": "Bing",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4362538,
+          50.0903481
+        ]
+      },
+      "id": "node/1699410611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979940400",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Staroměstská",
+        "public_transport": "platform",
+        "ref:PID": "U703Z1P",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4153206,
+          50.0882029
+        ]
+      },
+      "id": "node/1979940400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2131375985",
+        "name": "Jiráskovo náměstí",
+        "name:de": "Jirásek-Platz",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U208Z2P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4141431,
+          50.0764757
+        ]
+      },
+      "id": "node/2131375985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533893",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Haštalské náměstí",
+        "public_transport": "platform",
+        "ref:PID": "U2957Z1",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4239623,
+          50.0909106
+        ]
+      },
+      "id": "node/3109533893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533894",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Hradební",
+        "name:de": "Wallgasse",
+        "public_transport": "platform",
+        "ref:PID": "U1410Z1",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4270389,
+          50.0907385
+        ]
+      },
+      "id": "node/3109533894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533895",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "B",
+        "name": "Mariánské náměstí",
+        "name:de": "Marienplatz",
+        "public_transport": "platform",
+        "ref:PID": "U1408Z2P",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4175711,
+          50.0872605
+        ]
+      },
+      "id": "node/3109533895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533896",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "A",
+        "name": "Mariánské náměstí",
+        "name:de": "Marienplatz",
+        "public_transport": "platform",
+        "ref:PID": "U1408Z1P",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4172187,
+          50.0873031
+        ]
+      },
+      "id": "node/3109533896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533897",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Masná",
+        "public_transport": "platform",
+        "ref:PID": "U2963Z1P",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4243378,
+          50.0893263
+        ]
+      },
+      "id": "node/3109533897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533898",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Pařížská",
+        "name:de": "Pariser Straße",
+        "public_transport": "platform",
+        "ref:PID": "U2959Z1P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4190523,
+          50.0894214
+        ]
+      },
+      "id": "node/3109533898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533899",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Petrské náměstí",
+        "public_transport": "platform",
+        "ref:PID": "U2956Z2",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4324841,
+          50.0912035
+        ]
+      },
+      "id": "node/3109533899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533900",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Petrské náměstí",
+        "public_transport": "platform",
+        "ref:PID": "U2956Z1",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4319045,
+          50.0914106
+        ]
+      },
+      "id": "node/3109533900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533901",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "A",
+        "name": "Staroměstské náměstí",
+        "name:de": "Altstädter Ring",
+        "name:he": "כיכר העיר העתיקה",
+        "name:nl": "Oude Stadsplein",
+        "public_transport": "platform",
+        "ref:PID": "U2962Z1P",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4211603,
+          50.0880412
+        ]
+      },
+      "id": "node/3109533901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109533903",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "U Staré školy",
+        "public_transport": "platform",
+        "ref:PID": "U2958Z1",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421007,
+          50.0901054
+        ]
+      },
+      "id": "node/3109533903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166516047",
+        "name": "Čechův most",
+        "name:cs": "Čechův most",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4161071,
+          50.0937589
+        ]
+      },
+      "id": "node/3166516047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3791255555",
+        "name": "Pohořelec",
+        "name:de": "Brandplatz",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U531Z1",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3882378,
+          50.0876251
+        ]
+      },
+      "id": "node/3791255555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3791255556",
+        "name": "Pražský hrad",
+        "name:de": "Prager Burg",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U598Z1",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3979638,
+          50.0933457
+        ]
+      },
+      "id": "node/3791255556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3791255821",
+        "name": "Brusnice",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "C",
+        "ref:PID": "U46Z3P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3931106,
+          50.0931553
+        ]
+      },
+      "id": "node/3791255821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4339611153",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "4",
+        "name": "Hlavní nádraží 4",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4344261,
+          50.083304
+        ]
+      },
+      "id": "node/4339611153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4341060711",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "B",
+        "name": "Právnická fakulta",
+        "public_transport": "platform",
+        "ref:PID": "U593Z2P",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.417794,
+          50.0913885
+        ]
+      },
+      "id": "node/4341060711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466835792",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Masarykovo nádraží",
+        "name:de": "Masaryk-Bahnhof",
+        "public_transport": "platform",
+        "ref:PID": "U480Z10",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4330304,
+          50.0872062
+        ]
+      },
+      "id": "node/4466835792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691199472",
+        "name": "Malostranská",
+        "name:de": "Kleinseite",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U360Z2P",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4099515,
+          50.090933
+        ]
+      },
+      "id": "node/4691199472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691199476",
+        "name": "Staroměstská",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U703Z1P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4153515,
+          50.088205
+        ]
+      },
+      "id": "node/4691199476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691199631",
+        "name": "Malostranská",
+        "name:de": "Kleinseite",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U360Z4P",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4106242,
+          50.0916457
+        ]
+      },
+      "id": "node/4691199631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693347234",
+        "name": "Dlouhá třída",
+        "name:de": "Lange Gasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U87Z2P",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4278663,
+          50.0905314
+        ]
+      },
+      "id": "node/4693347234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693347239",
+        "name": "Dlouhá třída",
+        "name:de": "Lange Gasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U87Z1P",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4275634,
+          50.0917006
+        ]
+      },
+      "id": "node/4693347239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693347257",
+        "name": "Náměstí Republiky",
+        "name:de": "Platz der Republik",
+        "name:en": "Republic Square",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U480Z1P",
+        "shelter": "yes",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4300488,
+          50.0888371
+        ]
+      },
+      "id": "node/4693347257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693347258",
+        "name": "Náměstí Republiky",
+        "name:de": "Platz der Republik",
+        "name:en": "Republic Square",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U480Z2P",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4293355,
+          50.0885315
+        ]
+      },
+      "id": "node/4693347258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693353079",
+        "name": "Bílá labuť",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U32Z2P",
+        "shelter": "yes",
+        "source": "Bing",
+        "tactile_paving": "no",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4362137,
+          50.090362
+        ]
+      },
+      "id": "node/4693353079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693353084",
+        "name": "Bílá labuť",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U32Z1P",
+        "source": "Bing",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4354735,
+          50.0901465
+        ]
+      },
+      "id": "node/4693353084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699488914",
+        "name": "Újezd",
+        "name:de": "Aujest",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U809Z1",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4044617,
+          50.0816738
+        ]
+      },
+      "id": "node/4699488914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699488958",
+        "highway": "bus_stop",
+        "name": "Malostranské náměstí",
+        "name:de": "Kleinseitner Ring",
+        "name:es": "Plaza de la Ciudad Pequeña",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U361Z2",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4044436,
+          50.0882345
+        ]
+      },
+      "id": "node/4699488958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700724587",
+        "local_ref": "A",
+        "name": "Karlovy lázně",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U221Z1P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4135629,
+          50.0846492
+        ]
+      },
+      "id": "node/4700724587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700724588",
+        "local_ref": "C",
+        "name": "Národní divadlo",
+        "name:de": "Nationaltheater",
+        "name:nl": "Nationaal Theater",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "C",
+        "ref:PID": "U483Z5P",
+        "shelter": "yes",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4135278,
+          50.0803679
+        ]
+      },
+      "id": "node/4700724588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700724615",
+        "local_ref": "D",
+        "name": "Národní divadlo",
+        "name:de": "Nationaltheater",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "D",
+        "ref:PID": "U483Z6P",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4138309,
+          50.0798389
+        ]
+      },
+      "id": "node/4700724615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700724640",
+        "local_ref": "B",
+        "name": "Myslíkova",
+        "name:de": "Myslík-Gasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U401Z2P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4184982,
+          50.0780753
+        ]
+      },
+      "id": "node/4700724640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704922255",
+        "name": "Masarykovo nádraží",
+        "name:de": "Masaryk-Bahnhof",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "D",
+        "ref:PID": "U480Z4P",
+        "source": "Bing",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4325551,
+          50.0880957
+        ]
+      },
+      "id": "node/4704922255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704944965",
+        "name": "Václavské náměstí",
+        "name:de": "Wenzelsplatz",
+        "name:ko": "바츨라프 광장",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U1072Z1",
+        "source": "Bing,cuzk",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4254475,
+          50.0818036
+        ]
+      },
+      "id": "node/4704944965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704944966",
+        "name": "Václavské náměstí",
+        "name:de": "Wenzelsplatz",
+        "name:ko": "바츨라프 광장",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U1072Z2",
+        "source": "Bing,cuzk",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4257874,
+          50.0820638
+        ]
+      },
+      "id": "node/4704944966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704946994",
+        "name": "Jindřišská",
+        "name:de": "Heinrichsgasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U203Z2",
+        "shelter": "yes",
+        "source": "Bing,cuzk",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4307523,
+          50.0853309
+        ]
+      },
+      "id": "node/4704946994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704947002",
+        "name": "Jindřišská",
+        "name:de": "Heinrichsgasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U203Z1",
+        "shelter": "yes",
+        "source": "Bing,cuzk",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4302267,
+          50.0850945
+        ]
+      },
+      "id": "node/4704947002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704961989",
+        "name": "Lazarská",
+        "name:de": "Lazarusgasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U997Z1",
+        "source": "Bing,cuzk",
+        "tram": "yes",
+        "wikidata": "Q12032799",
+        "wikipedia": "cs:Lazarská (přestupní uzel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4203033,
+          50.0791738
+        ]
+      },
+      "id": "node/4704961989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704962012",
+        "name": "Vodičkova",
+        "name:de": "Wassergasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U484Z1",
+        "source": "Bing,cuzk",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4227878,
+          50.0796173
+        ]
+      },
+      "id": "node/4704962012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704962021",
+        "name": "Vodičkova",
+        "name:de": "Wassergasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U484Z2",
+        "source": "Bing,cuzk",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4233905,
+          50.0800346
+        ]
+      },
+      "id": "node/4704962021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714677494",
+        "name": "Národní divadlo",
+        "name:de": "Nationaltheater",
+        "name:nl": "Nationaal Theater",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U483Z1P",
+        "source": "bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4149616,
+          50.0814206
+        ]
+      },
+      "id": "node/4714677494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714677495",
+        "name": "Národní třída",
+        "name:de": "Nationalallee",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "B",
+        "ref:PID": "U539Z2P",
+        "source": "bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4194713,
+          50.081666
+        ]
+      },
+      "id": "node/4714677495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714677496",
+        "name": "Národní třída",
+        "name:de": "Nationalallee",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U539Z1P",
+        "source": "bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4196121,
+          50.0811807
+        ]
+      },
+      "id": "node/4714677496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714677507",
+        "name": "Lazarská",
+        "name:de": "Lazarusgasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "C",
+        "ref:PID": "U997Z3",
+        "source": "Bing,cuzk",
+        "tram": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q12032799",
+        "wikipedia": "cs:Lazarská (přestupní uzel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4195744,
+          50.0793739
+        ]
+      },
+      "id": "node/4714677507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4716283370",
+        "name": "Masarykovo nádraží",
+        "name:de": "Masaryk-Bahnhof",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "C",
+        "ref:PID": "U480Z3P",
+        "source": "Bing",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4325268,
+          50.0876976
+        ]
+      },
+      "id": "node/4716283370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721019947",
+        "name": "Hlavní nádraží",
+        "name:de": "Hauptbahnhof",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U142Z1P",
+        "source": "Bing;cuzk",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.435061,
+          50.0860775
+        ]
+      },
+      "id": "node/4721019947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721894504",
+        "name": "Brusnice",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U46Z1P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3916286,
+          50.0929897
+        ]
+      },
+      "id": "node/4721894504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457839920",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Truhlářská",
+        "public_transport": "platform",
+        "ref:PID": "U1409Z1P",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4286484,
+          50.0894882
+        ]
+      },
+      "id": "node/5457839920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457839921",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Hradební",
+        "name:de": "Wallgasse",
+        "public_transport": "platform",
+        "ref:PID": "U1410Z2",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4270672,
+          50.0906824
+        ]
+      },
+      "id": "node/5457839921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457903249",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "A",
+        "name": "Nemocnice Na Františku",
+        "public_transport": "platform",
+        "ref:PID": "U620Z1P",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4237708,
+          50.0930155
+        ]
+      },
+      "id": "node/5457903249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5679574101",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ve Smečkách",
+        "name:cs": "Ve Smečkách",
+        "public_transport": "platform",
+        "ref:PID": "U3213Z1P",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4260604,
+          50.0773233
+        ]
+      },
+      "id": "node/5679574101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7002486683",
+        "highway": "bus_stop",
+        "name": "Malostranské náměstí",
+        "name:de": "Kleinseitner Ring",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "A",
+        "ref:PID": "U361Z1",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4043713,
+          50.0880678
+        ]
+      },
+      "id": "node/7002486683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7444974407",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Valdštejnské náměstí",
+        "public_transport": "platform",
+        "ref:PID": "U3249Z1P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4051636,
+          50.0902754
+        ]
+      },
+      "id": "node/7444974407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741682397",
+        "name": "Lazarská",
+        "name:de": "Lazarusgasse",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "D",
+        "ref:PID": "U997Z4",
+        "source": "Bing,cuzk",
+        "tram": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q12032799",
+        "wikipedia": "cs:Lazarská (přestupní uzel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4198018,
+          50.0800301
+        ]
+      },
+      "id": "node/7741682397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7995015549",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "F",
+        "name": "Staroměstská",
+        "public_transport": "platform",
+        "ref:PID": "U703Z5P",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wikidata": "Q122332529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4162736,
+          50.0885666
+        ]
+      },
+      "id": "node/7995015549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7995015551",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "J",
+        "name": "Malostranská",
+        "public_transport": "platform",
+        "ref:PID": "U360Z10P",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4101656,
+          50.0907954
+        ]
+      },
+      "id": "node/7995015551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8157899799",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "H",
+        "name": "Hlavní nádraží",
+        "public_transport": "platform",
+        "ref:PID": "U142Z4P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4345712,
+          50.0832364
+        ]
+      },
+      "id": "node/8157899799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8321842377",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "E",
+        "name": "Náměstí Republiky",
+        "public_transport": "platform",
+        "ref:PID": "U480Z5P",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4278686,
+          50.0898356
+        ]
+      },
+      "id": "node/8321842377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8341125020",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "C",
+        "name": "Masarykovo nádraží",
+        "name:de": "Masaryk-Bahnhof",
+        "public_transport": "platform",
+        "ref:PID": "U480Z3P",
+        "shelter": "yes",
+        "source": "Bing",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4325057,
+          50.0877295
+        ]
+      },
+      "id": "node/8341125020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8390396167",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Pražský hrad",
+        "public_transport": "platform",
+        "ref": "A",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3979836,
+          50.09331
+        ]
+      },
+      "id": "node/8390396167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8879446572",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "local_ref": "A",
+        "name": "Právnická fakulta",
+        "name:ru": "Юридический факультет",
+        "public_transport": "platform",
+        "ref:PID": "U593Z1P",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4178431,
+          50.0917152
+        ]
+      },
+      "id": "node/8879446572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9739605791",
+        "name": "Hlavní nádraží",
+        "name:de": "Hauptbahnhof",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "D",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4340437,
+          50.0855205
+        ]
+      },
+      "id": "node/9739605791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9739605792",
+        "name": "Hlavní nádraží",
+        "name:de": "Hauptbahnhof",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref": "D",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4340767,
+          50.0855054
+        ]
+      },
+      "id": "node/9739605792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9802497363",
+        "local_ref": "B",
+        "name": "Karlovy lázně",
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "ref:PID": "U221Z2P",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4136916,
+          50.0847796
+        ]
+      },
+      "id": "node/9802497363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208169350",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pražský hrad",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3986917,
+          50.0932995
+        ]
+      },
+      "id": "node/10208169350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208169362",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "U Bruských kasáren",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4102278,
+          50.0924829
+        ]
+      },
+      "id": "node/10208169362"
+    }
+  ]
+}
